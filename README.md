@@ -6,5 +6,5 @@
 
 🎓 Graduando em Gestão da Tecnologia da Informação
 
-
+❤ Amante de Tecnologia 
 
