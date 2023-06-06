@@ -12,9 +12,8 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Gustavo182000?tab=repositories](https://github.com/Gustavo182000?tab=repositories)
 
-- 📫 Como chegar até mim **gb95131aq@gmail.com**
+- 📫 Como chegar até mim [Linkedin](https://www.linkedin.com/in/gustavo-braga-7b54711aa/)
 
-<h3 align="left">Connect with me: [Linkedin](https://github.com/Gustavo182000/api-vendas)</h3>
 <p align="left">
 </p>
 
