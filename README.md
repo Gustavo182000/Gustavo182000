@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo Braga</h1>
 <h3 align="center">👩‍💻 Trabalho atualmente na empresa IDDS (Instituto de Dignidade e Desenvolvimento Social) prestando serviço terceirizado para a Prefeitura Municipal de Pará de Minas como Desenvolvedor Web.</h3>
+<h3 align="center">❤ Apaixonado por resolver problemas por meio da tecnologia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo182000&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo182000" /> </p>
 
@@ -13,7 +14,7 @@
 
 - 📫 Como chegar até mim **gb95131aq@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [Linkedin](https://github.com/Gustavo182000/api-vendas)</h3>
 <p align="left">
 </p>
 
