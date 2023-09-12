@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavo182000" alt="gustavo182000" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em [API VENDAS](https://github.com/Gustavo182000/api-vendas)
+- 🔭 Atualmente estou estudando ASP.NET
 
 - 🌱 Atualmente estou aprendendo **Typescript**
 
